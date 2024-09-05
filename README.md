@@ -28,6 +28,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vvtraxx/Vvtraxx/output/snake.svg" alt="Snake animation" />
-
-###
