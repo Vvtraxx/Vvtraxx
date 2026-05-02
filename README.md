@@ -40,5 +40,5 @@ Olá, eu sou Vitor Kloster<br><br>Sou desenvolvedor júnior em início de carrei
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vvtraxx/Vvtraxx/output/snake.svg" alt="Snake animation" />
 </picture>
