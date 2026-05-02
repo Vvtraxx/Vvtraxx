@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá, eu sou Vitor Kloster<br><br>Sou desenvolvedor júnior em início de carreira, focado em desenvolvimento web e criação de sistemas modernos.<br><br>Atualmente estudo e pratico React, Next.js e integração com APIs, construindo projetos próprios para evoluir minhas habilidades.<br><br>Tenho interesse em automações e criação de produtos digitais, e estou sempre aprendendo para me tornar um desenvolvedor melhor.
 
 
