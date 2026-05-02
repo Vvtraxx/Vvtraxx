@@ -1,3 +1,4 @@
+
 <details>
   <summary>👨‍💻 More about me</summary>
 
@@ -6,7 +7,8 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
-
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 <!-- GIF -->
 <p align="left">
