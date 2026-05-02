@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Olá, eu sou Vitor Kloster<br><br>Sou desenvolvedor júnior em início de carreira, focado em desenvolvimento web e criação de sistemas modernos.<br><br>Atualmente estudo e pratico React, Next.js e integração com APIs, construindo projetos próprios para evoluir minhas habilidades.<br><br>Tenho interesse em automações e criação de produtos digitais, e estou sempre aprendendo para me tornar um desenvolvedor melhor.
 
@@ -15,8 +14,5 @@ Olá, eu sou Vitor Kloster<br><br>Sou desenvolvedor júnior em início de carrei
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vvtraxx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Vvtraxx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
